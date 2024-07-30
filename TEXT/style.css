@@ -1,0 +1,284 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.sp2{
+    color: rgb(249, 241, 237);
+    font-size: 2.4rem;
+    font-weight: 100;
+
+}
+.sp{
+
+    color: #ffffff;
+}
+.sp1{
+    font-weight: bold;
+   
+}
+.nav1{
+    width: 100%;
+ 
+ 
+}
+
+
+.nav{
+   background-image : url(https://wallpaperswide.com/download/iceland_nature_travel_photography-wallpaper-1920x1080.jpg);
+   background-size: cover;
+   background-attachment: fixed;
+   height: 100vh;
+   
+ 
+
+   
+}
+.para1{
+    font-size: 60px;
+    font-family: "Ga Maamli", sans-serif;
+    text-decoration: none;
+    list-style: none;
+    margin-left: 150vh;
+    color: #fcfbfb;
+    font-weight: bold;
+    margin-top: 20vh;
+}
+.but{
+    margin-left: 700px;
+    color: aliceblue;
+   text-decoration: none;
+  text-align: center;
+  border-radius: 10px;  
+  background-color: green;
+  align-items: center;
+  text-align: center;
+  padding: 10px;
+ 
+ 
+
+
+}
+.butt{
+    margin-bottom: 100px;
+    align-items: center;
+
+
+}
+.head1{
+    text-align: center;
+    /* height: 30px; */
+    padding-top: 30px;
+}
+.card1{
+    text-align: center;
+   
+ justify-content:space-evenly;
+   padding-top: 50px;
+}
+img{
+    height: 50%;
+}
+.image2{
+    color: red;
+}
+.buttt{
+    
+    margin-left: 700px;
+    width: 10%;
+    color: aliceblue;
+    text-decoration: none;
+   text-align: center;
+   border-radius: 10px;  
+   background-color: rgb(4, 0, 128);
+   align-items: center;
+   text-align: center;
+   padding: 10px;
+}
+.but2{
+    margin-top: 50px;
+}
+.par{
+    text-align: center;
+}
+.card:hover{
+    align-items: center;
+    border: solid 0.5px;
+    border-radius: 10px;
+   
+    box-shadow: 1px 1px 30px rgb(0, 0, 0);
+}
+.img4{
+   height: 100vh;
+    width: 100%;
+}
+.part3{
+    margin-top: 20px;
+   padding: 40px;
+   background-color: rgba(178, 191, 202, 0.301);
+ 
+}
+.h7{
+  
+    width: 100%;
+}
+.h7{
+   position: absolute;
+    color: #000000;
+    z-index: 1;
+}
+.part4{
+    padding: 80px;
+    display: flex;
+  
+ }
+ .img0{
+    margin-top: 40px;
+   padding: 20px;
+    height: 400px;
+
+ }
+ .head3{
+    margin-top: 30px;
+    text-align: center;
+ }
+ .part5{
+    display: flex;
+    
+
+    justify-content: space-evenly;
+ 
+   
+ }
+ .part51{
+    position: absolute;
+    margin-top: -340px;
+    margin-left: 14px;
+    background-color: rgba(0, 255, 255, 0.932);
+    width: 322px;
+    height: 330px;
+    text-align: center;
+    display: none;
+   
+   
+    border-radius: 10px;
+
+   
+   
+   
+ }
+ .hh{
+   margin-top: 100px;
+ }
+ .img51{
+     width: 350px;
+    height: 350px;
+    padding: 20px;
+    border: solid;
+    padding: 10px;
+    border-radius: 20px;
+
+ }
+.part52:hover .part51{
+    display: block;
+}
+/*  <!-- Our Premium Features --> */
+
+.ourpremiumf{
+    padding: 40px;
+}
+.ourpremiumf-head{
+    text-align: center;
+    padding-top: 60px;
+}
+
+.parentopf{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.childopf img{
+    width: 150px;
+    height: 150px;
+    
+}
+.childopf a{
+    text-decoration: none;
+}
+.childopf{
+    padding-top: 30px;
+    width: 250px;
+    height: 250px;
+    /* background-color: aqua; */
+    border: solid 1px;
+    border-color: rgb(250, 236, 219);
+    border-radius: 50px;
+    background-color: rgb(250, 236, 219);
+}
+
+/*  <!-- a small icon & our customers love!! -->  */
+
+/* #ocl{
+    padding: 40px;
+} */
+.oclicon{
+    padding-top: 60px;
+    text-align: center;
+
+}
+.oclicon i{
+    font-size: 40px;
+    color: rgb(13, 13, 10);
+}
+.oclicon h1{
+    font-size: 40px;
+    color: black;
+}
+.oclparent{
+    padding-top: 30px;
+    padding-left: 70px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.oclchild img{
+
+    width: 250px;
+    height: 250px;
+}
+.staricon{
+    color: green;
+}
+
+/* <!-- footer --> */
+#footer{
+ padding-top: 40px;
+ background-color: rgb(4, 4, 57);
+ color: white;
+}
+.parentfooter{
+    display: flex;
+    justify-content: space-evenly;
+}
+.childfooter img{
+    width: 200px;
+    height: 200px;
+}
+
+.childfooter i{
+    font-size: 30px;
+    padding: 5px;
+}
+.childfooter h2{
+    color: orange;
+}
+.childfooter h5{
+    font-weight: 300;
+    font-size: 20px;
+}
+.childfooter h4{
+    /* margin-left:20px; */
+}
+.footer2{
+    text-align:center;
+}
